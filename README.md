@@ -1,4 +1,8 @@
 # Rahiq Raees' Github 😀
+## LinkedIn
+https://www.linkedin.com/in/rahiq-raees/
+## About me: 
+Former Mathematics & Statistics student (HBSc) at the University of Toronto, now pursuing a Master's in Data Science at UBC. Passionate about data-driven decision making, machine learning, and statistical modeling.
 
 <!--
 **rahiqraees/rahiqraees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
